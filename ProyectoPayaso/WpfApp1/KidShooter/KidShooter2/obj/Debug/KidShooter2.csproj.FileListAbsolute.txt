@@ -1,0 +1,10 @@
+C:\Users\Fer\source\repos\KidShooter2\KidShooter2\bin\Debug\KidShooter2.exe.config
+C:\Users\Fer\source\repos\KidShooter2\KidShooter2\bin\Debug\KidShooter2.exe
+C:\Users\Fer\source\repos\KidShooter2\KidShooter2\bin\Debug\KidShooter2.pdb
+C:\Users\Fer\source\repos\KidShooter2\KidShooter2\obj\Debug\KidShooter2.csprojResolveAssemblyReference.cache
+C:\Users\Fer\source\repos\KidShooter2\KidShooter2\obj\Debug\KidShooter2.KidShooter.resources
+C:\Users\Fer\source\repos\KidShooter2\KidShooter2\obj\Debug\KidShooter2.Properties.Resources.resources
+C:\Users\Fer\source\repos\KidShooter2\KidShooter2\obj\Debug\KidShooter2.csproj.GenerateResource.Cache
+C:\Users\Fer\source\repos\KidShooter2\KidShooter2\obj\Debug\KidShooter2.csproj.CoreCompileInputs.cache
+C:\Users\Fer\source\repos\KidShooter2\KidShooter2\obj\Debug\KidShooter2.exe
+C:\Users\Fer\source\repos\KidShooter2\KidShooter2\obj\Debug\KidShooter2.pdb
